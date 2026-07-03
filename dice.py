@@ -2,7 +2,7 @@ import datetime
 import random
 import csv
 
-counter = 11
+counter = 5
 
 target = "1" * counter
 now = datetime.datetime.now()
